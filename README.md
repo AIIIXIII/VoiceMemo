@@ -1,2 +1,2 @@
 # VoiceMemo
-speech to text memo generator
+speech to text memo generator in python.
