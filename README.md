@@ -1,5 +1,5 @@
-# VoiceMemo ♪
-speech to text memo generator in python.
+# VoiceMemo 
+Speech to text memo generator in python. ♪
 
 ## USAGE 
 
